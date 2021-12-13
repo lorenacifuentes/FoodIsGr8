@@ -17,6 +17,7 @@ import android.widget.ImageView;
 import android.widget.TextView;
 import android.widget.Toast;
 
+import com.example.foodisgr8.Controlador.FormatActivity;
 import com.example.foodisgr8.Controlador.LoginActivity;
 import com.example.foodisgr8.R;
 
@@ -50,7 +51,7 @@ public class Fragment_Inicio extends Fragment {
             @Override
             public void onClick(View v) {
                 Toast.makeText(getActivity().getApplicationContext(), "Ingresa tu nombre y Selecciona una opción en el menu!", Toast.LENGTH_LONG).show();
-                Intent intent = new Intent(getActivity(), LoginActivity.class);
+                Intent intent = new Intent(getActivity(), FormatActivity.class);
                 getActivity().startActivity(intent);
             }
         });

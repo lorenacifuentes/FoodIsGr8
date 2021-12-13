@@ -58,8 +58,8 @@
                     android:layout_height="81dp"
                     android:layout_weight="1"
                     android:textStyle="bold"
-                    android:textColor="@color/white"
-                    android:text="Bienvenido" />
+                    android:textColor="@color/Naranja_Medio"
+                    android:text="Bienvenido al CRUD" />
             </LinearLayout>
 
 

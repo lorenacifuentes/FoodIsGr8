@@ -24,4 +24,7 @@
     <item
         android:id="@+id/itemNosotros"
         android:title="@string/itemNosotros" />
+    <item
+        android:id="@+id/itemCrud"
+        android:title="@string/itemCrud" />
 </menu>

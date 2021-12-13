@@ -4,6 +4,7 @@
     <string name="itemServicios">Servicios</string>
     <string name="itemUbicanos">Ubícanos</string>
     <string name="itemNosotros">Sobre Nosotros</string>
+    <string name="itemCrud">CRUD</string>
     <string name="welcome">Bienvenidos a FoodIsGr8!</string>
     <string name="todo">TODO</string>
 </resources>
